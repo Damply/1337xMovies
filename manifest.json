@@ -1,9 +1,7 @@
-[
-  {
-    "name": "1337xMovies",
-    "description": "Search and stream movies via torrents from 1337x.to",
-    "version": "1.0.0",
-    "code": "https://gist.githubusercontent.com/Damply/c0fe90023d040350896f3132598491f6/raw/1337xMovies.mjs",
-    "language": "javascript"
-  }
-]
+{
+  "name": "1337xMovies",
+  "description": "Search and stream movies via torrents from 1337x.to",
+  "version": "1.0.0",
+  "code": "raw.githubusercontent.com/Damply/1337xMovies/refs/heads/main/1337xMovies.mjs",
+  "language": "javascript"
+}
